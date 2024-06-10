@@ -8,7 +8,7 @@ Linting is the process of analyzing source code for potential errors, bugs, styl
 
 > [!TIP]
 >
-> <img width="332" alt="ss01" src="https://github.com/blagojevic-uros/spirit/assets/71049196/e5ffd25e-1fc1-412e-b49e-22c33a88db58">
+> <img width="332" alt="ss01" src="https://github.com/blagojevic-uros/code-review/assets/71049196/5e864ce0-e54c-4752-bb1f-191f59e227fa">
 >
 > Inside of various number of classes, we can see some class fields that have only been instantiated inside of a constructor. Since a variable is only defined once and does not change it's value again, it can also be declared as "final". This issue is present in at least 30 different class files.
 
